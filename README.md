@@ -1,4 +1,4 @@
-Douban-FM Box
+DOUBAN-FM BOX
 =============
 <pre>
 d8888b    d88b   db    db d8888b   .d8b.  d8b   db      d88888b .88b  d88.
@@ -38,7 +38,7 @@ Y8888D    Y88P    Y8888P  Y8888P  YP   YP VP   V8P      YP      YP  YP  YP
 ###快捷键
 
 <table>
-    <tr><td>####按键####</td><td>####说明####</td></tr>
+    <tr><td><strong>按键</strong></td><td><strong>说明</strong></td></tr>
     <tr><td>k</td><td>上移</td></tr>
     <tr><td>j</td><td>下移</td></tr>
     <tr><td>h</td><td>上一兆赫</td></tr>
@@ -53,7 +53,7 @@ Y8888D    Y88P    Y8888P  Y8888P  YP   YP VP   V8P      YP      YP  YP  YP
 
 ### The MIT License (MIT)
 
-CopyRight (c) 2015 nerodeng  &lt;<a href="mailto:dyq9109@163.com">dyq9109@163.com</a>&gt;
+CopyRight (c) 2015 neodeng  &lt;<a href="mailto:dyq9109@163.com">dyq9109@163.com</a>&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
